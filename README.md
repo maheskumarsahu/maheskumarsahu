@@ -1,4 +1,4 @@
-# Hi, I'm Mahesh Kumar Sahu 👋
+# Hi, I'm Mahes Kumar Sahu 👋
 
 ### Full Stack Developer | Java Enthusiast | Spring Boot | React
 
