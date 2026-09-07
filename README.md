@@ -54,19 +54,25 @@
 
 ## 📂 Featured Projects
 
-### 🏦 Bank Management System
+### 🛒 ShopSphere | E-Commerce Web Application
 
-* Java + JDBC + MySQL
-* Account creation, transactions, and balance management
+* 🌐 Full-stack **e-commerce web application**
+* ⚛️ Built with **React.js** for the frontend
+* ☕ Developed backend functionality using **Java, Spring Boot & Hibernate**
+* 🗄️ Integrated **MySQL** for database management
+* 🛍️ Includes product browsing, shopping cart, user authentication, and order management
 
-### 🌐 React Router Project
+### 💬 Vibe Chat | Real-Time Chat Application
 
-* React Router DOM
-* Multiple page navigation
+* 💻 Real-time **chat application** built for instant communication
+* ⚛️ Developed frontend using **React.js**
+* 🟢 Built backend using **Node.js & Express.js**
+* 🔄 Implemented real-time communication using **Socket.IO**
+* 🗄️ Used **MongoDB** for storing user and chat data
 
 ### 💰 Redux Toolkit Banking App
 
-* State management using Redux Toolkit
+* State management using **Redux Toolkit**
 * Deposit and Withdraw functionality
 
 ### 🎨 Theme Switcher
