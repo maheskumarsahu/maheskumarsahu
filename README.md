@@ -115,7 +115,7 @@ My goal is to become a skilled **Full Stack Developer** capable of designing and
 </p>
 
 <p>
-  <a href="mailto:sahumahes269@gmail.com">
+  <a href="mailto:maheskumarsahu02@gmail.com">
     <img src="https://img.shields.io/badge/Email-sahumahes269%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
